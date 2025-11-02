@@ -64,7 +64,7 @@ print(f"Number of GPUs: {torch.cuda.device_count()}")
 
 ```bash
 cd src
-python autoencoder.py
+py autoencoder.py
 ```
 
 output:
@@ -77,7 +77,7 @@ output:
 
 ```bash
 cd src
-python visualize.py
+py visualize.py
 ```
 
 output:
