@@ -8,19 +8,19 @@ Compression ratio: 198x compression
     <td><b>Original & Reconstructed Images - Epoch 1</b></td>
   </tr>
   <tr>
-    <td><img src="imgs/epoch_1.png" width="700"></td>
+    <td><img src="imgs/first_epoch.png" width="700"></td>
   </tr>
   <tr>
     <td><b>Original & Reconstructed Images - Epoch 15</b></td>
   </tr>
   <tr>
-    <td><img src="imgs/epoch_15.png" width="700"></td>
+    <td><img src="imgs/mid_epoch.png" width="700"></td>
   </tr>
   <tr>
     <td><b>Original & Reconstructed Images - Epoch 30</b></td>
   </tr>
   <tr>
-    <td><img src="imgs/epoch_30.png" width="700"></td>
+    <td><img src="imgs/last_epoch.png" width="700"></td>
   </tr>
 </table>
 
