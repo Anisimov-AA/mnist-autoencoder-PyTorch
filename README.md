@@ -1,10 +1,10 @@
 Autoencoder that compresses MNIST digit images from 784 pixels to just 3 numbers and reconstructs them back
 
-Architecture: 784 -> 128 -> 64 -> 32 -> 8 -> 32 -> 64 -> 128 -> 784  
+Architecture: 784 -> 128 -> 64 -> 32 -> 4 -> 32 -> 64 -> 128 -> 784  
 Compression ratio: **198x compression**
 
 <table>
-  <tr>
+  <tr>4
     <td><b>Original & Reconstructed Images - Epoch 1</b></td>
   </tr>
   <tr>
