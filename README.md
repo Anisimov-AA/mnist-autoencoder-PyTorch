@@ -1,4 +1,4 @@
-Autoencoder that compresses MNIST digit images from 784 pixels to just 3 numbers and reconstructs them back
+Autoencoder that compresses MNIST digit images from 784 pixels to just 4 numbers and reconstructs them back
 
 Architecture: 784 -> 128 -> 64 -> 32 -> 4 -> 32 -> 64 -> 128 -> 784  
 Compression ratio: **198x compression**
